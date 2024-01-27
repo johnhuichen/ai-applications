@@ -12,27 +12,41 @@ My hope is that this repository evolves with community collaboration. Join me in
 
 ## Video Generation
 
-| Name                                             | As of      | Description                                                                                                                                                                | Pricing                                                                   |
-| ------------------------------------------------ | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [Pictory](https://pictory.ai)                    | 2024-01-26 | An AI video generator that easily creates and edits high-quality videos from scripts or articles. Ideal for social media content and personal blogging.                    | Starter: $19/month, Professional: $39/month, Teams: $99/month             |
-| [Synthesys](https://www.synthesys.io)            | 2024-01-26 | Specializes in text-to-voiceover and videos for commercial use, transforming scripts into dynamic presentations with a variety of avatars and languages.                   | Free, Creator: $41/month, Business: $69/month                             |
-| [Synthesia](https://www.synthesia.io)            | 2024-01-26 | Enables quick video creation with AI avatars, offering a wide range of languages, templates, and a media library. Used by prominent organizations for diverse video needs. | Starter: $29/month, Creator: $89/month, Enterprise: Custom Pricing        |
-| [Deepbrain AI](https://www.deepbrainai.io)       | 2024-01-26 | Offers AI-generated videos using basic text, with a user-friendly interface and options for custom avatars. Ideal for rapid content creation.                              | Starter: $24/month, Pro: $180/month, Enterprise: Custom Pricing           |
-| [InVideo](https://www.invideo.io)                | 2024-01-26 | A powerful online video creation platform for marketing and explainer videos, generating video content from input text with various templates.                             | Free Plan, Plus: $25/month, Max: $60/month                                |
-| [HeyGen](https://www.heygen.ai)                  | 2024-01-26 | Helps create engaging business videos with generative AI, turning text into professional videos, and offering a wide range of voices and customizations.                   | Free, Creator: $24/month, Business: $72/month, Enterprise: Custom Pricing |
-| [Veed.io](https://www.veed.io)                   | 2024-01-26 | A versatile platform for generating high-quality video with user-friendly editing tools, effects, and filters. Suitable for comprehensive video editing experiences.       | Free, Basic: $18/month, Pro: $30/month, Business: $70/month               |
-| [Unboring by Reface](https://reface.ai/unboring) | 2024-01-26 | An all-in-one content creation platform with tools for video animation and face swaps, changing the video's visual style with advanced video-to-video technology.          | Starting at $5.99/month, Pay-as-you-go available                          |
-| [Visla](https://www.visla.ai)                    | 2024-01-26 | Perfect for script generation, Visla can curate relevant stock images and videos to produce polished videos, with options for direct recording and AI editing.             | Free, Premium: $24/month                                                  |
-| [Biteable](https://biteable.com)                 | 2024-01-26 | An online video generator that simplifies video creation with AI tools, analyzing user input to recommend suitable enhancements for template-driven video creation.        | Pro: $49/month, Premium: $99/month, Business: Contact for pricing         |
+### Initial Prompt
+
+```
+Find as many as possible the latest and best text-to-video AI generators in 2024:
+
+1. If a website advertises its own product, don't trust the source.
+2. Find the correct ranking by aggregating results from multiple sources
+3. Rank higher the applications that with a track record of success
+4. Rank higher the applications that generate a hype recently
+```
+
+| Name                                       | As of      | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ------------------------------------------ | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Pictory](https://www.pictory.ai)          | 2024-01-27 | Pictory is a versatile AI video editor suitable for creating social media videos. It features a large stock footage library, various on-screen fonts and graphics, and the ability to extract short clips from longer videos for platforms like Instagram Reels or YouTube Shorts. Pictory stands out for its user-friendly interface and its recent updates, including Getty integration for premium users, improved AI for video summaries in additional languages, and new templates, fonts, and voices. |
+| [Synthesia](https://www.synthesia.io)      | 2024-01-27 | Known for generating high-quality videos, Synthesia is highly recommended for professional video creation, despite not offering text-to-speech capabilities. Its ease of use is a major plus for users without prior video editing experience. Also offers over 60 languages, various templates, a screen recorder, a media library, and is used by top companies like Google and Nike.                                                                                                                     |
+| [Lumen5](https://www.lumen5.com)           | 2024-01-27 | Lumen5 specializes in converting text content into video, offering a range of templates and customization options. It's ideal for marketers and content creators looking to rep                                                                                                                                                                                                                                                                                                                             |
+| [Colossyan](https://www.colossyan.com)     | 2024-01-27 | Colossyan is notable for learning and training videos, with features like 70+ languages, 30+ AI actors, and custom avatar creation. It stands out for its ease of setting emotions and age for each AI actor, especially for enterprise clients.                                                                                                                                                                                                                                                            |
+| [RunwayML](https://runwayml.com)           | 2024-01-27 | RunwayML is a browser-based video editing software with advanced machine learning capabilities. It is particularly suited for artists and creatives, offering tools like masking, color correction, compositing, and VFX. Its AI-generated analysis and metadata enhance video realism.                                                                                                                                                                                                                     |
+| [InVideo](https://www.invideo.io)          | 2024-01-27 | Offers a diverse selection of over 6000 video templates and high customizability. InVideo is designed for extensive video tailoring with collaborative features and an intuitive user interface. Also, it is great for generating marketing and explainer videos, making it easy to create high-quality videos from input text.                                                                                                                                                                             |
+| [Elai](https://elai.io)                    | 2024-01-27 | Features automatic enhancements, custom avatar creation, and authentic voice cloning. Elai supports streamlined URL conversion and seamless integrations, offering free API access and easy translations. However, it has fewer avatar actions and variety compared to competitors.                                                                                                                                                                                                                         |
+| [Hour One](https://www.hourone.ai)         | 2024-01-27 | This platform offers extensive features including avatar and character customization, multilingual support, and broad vocal features. It's also equipped with API integration for mass video output, catering to large-scale video production needs.                                                                                                                                                                                                                                                        |
+| [Runway](https://runwayml.com)             | 2024-01-27 | An established platform in the text-to-video generation space known for its high-quality video outputs. Offers various creation modes and extensive configuration options. Accessible on iOS, Runway is suitable for a range of creators, but has some limitations in accurately rendering faces and hands.                                                                                                                                                                                                 |
+| [Synthesys](https://www.synthesys.io)      | 2024-01-27 | Synthesys focuses on text-to-voiceover and video creation for commercial use. It features Synthesys Text-to-Video technology, 69 real "Humatars", a voice bank of 254 unique styles, and supports 140+ languages. It's known for its easy-to-use interface, high-resolution output, and being particularly effective for explainer videos, eLearning, social media, and product descriptions.                                                                                                               |
+| [Deepbrain AI](https://www.deepbrainai.io) | 2024-01-27 | Deepbrain AI offers a straightforward tool for creating AI-generated videos from text. Users can start with their own templates or pre-made ones, and the tool provides an intuitive design suitable for beginners. It's known for its time and cost efficiency in the video production process.                                                                                                                                                                                                            |
+| [Wave Video](https://www.wave.video)       | 2024-01-27 | Wave Video offers a comprehensive set of features for video editing and creation, including a vast selection of templates and customizable options. It's highly rated for its user-friendliness and ability to produce professional-grade videos.                                                                                                                                                                                                                                                           |
+| [Designs.AI](https://www.designs.ai)       | 2024-01-27 | Designs.AI is a versatile tool that integrates various AI-driven capabilities, including video creation, logo design, and speech synthesis. It's known for its ease of use and the quality of its output, making it suitable for a range of creative projects.                                                                                                                                                                                                                                              |
+| [HeyGen](https://www.heygen.ai)            | 2024-01-27 | HeyGen offers a unique approach to video generation, focusing on creative AI-driven solutions for digital content. Its platform is user-friendly and supports various customizations, making it a popular choice for creators seeking innovative tools.                                                                                                                                                                                                                                                     |
+| [Raw Shorts](https://www.rawshorts.com)    | 2024-01-27 | Raw Shorts is a powerful AI video editor that helps in transforming text and data into engaging animated videos. It's popular for its simplicity and effectiveness, especially in educational and marketing contexts.                                                                                                                                                                                                                                                                                       |
 
 ## Text-to-Image AI Generators
 
-### Initial ChatGPT Prompt
-
-Combine results of three separate queries to ChatGPT using the following prompt
+### Initial Prompt
 
 ```
-Find as many as possible "the latest and best text-to-image AI generators in 2024:
+Find as many as possible the latest and best text-to-image AI generators in 2024:
 
 1. If a website advertises its own product, don't trust the source.
 2. Find the correct ranking by aggregating results from multiple sources
@@ -60,113 +74,222 @@ Find as many as possible "the latest and best text-to-image AI generators in 202
 | [Hotpot AI](https://www.hotpot.ai/)                                  | 2024-01-27 | Focuses on photorealistic scene rendering, creating images resembling real-life settings.                               |
 | [Leonardo AI](https://www.leonardoai.com)                            | 2024-01-27 | High-quality image generator with custom model training capabilities, offering an AI-powered canvas for image creation. |
 
-## Image Enhancement
+## AI Photo Enhancer
 
-| Name                                                            | As of      | Description                                                                                               | Pricing                                                                                    |
-| --------------------------------------------------------------- | ---------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| [Luminar Neo](https://www.skylum.com/luminar-neo)               | 2024-01-26 | Offers AI-powered editing tools, unique AI adjustments, and a comprehensive effects suite.                | Monthly: $11.95/month, Annual: $99/year, Biennial: $149/2 years, Lifetime: $249 (one-time) |
-| [Photoleap by Lightricks](https://www.lightricks.com/photoleap) | 2024-01-26 | Provides all-in-one photo editing with AI capabilities, such as background changes and object removal.    | Various in-app purchases, including $6.99, $7.99, $8.99, etc.                              |
-| [Topaz Photo AI](https://www.topazlabs.com/photo-ai)            | 2024-01-26 | Features noise reduction, sharpening, and upscaling, and works well with RAW files.                       | $199 (includes one year of upgrades)                                                       |
-| [Movavi Photo Editor](https://www.movavi.com/photo-editor/)     | 2024-01-26 | Equipped with AI tools for face detection, skin smoothing, and old photo restoration.                     | $21.50 per year                                                                            |
-| [Pixlr X](https://pixlr.com/)                                   | 2024-01-26 | A free online AI photo editor with advanced tools like background removal and Text-to-Image AI generator. | Plus: $1.99/month or $0.99/month (yearly), Premium: $7.99/month or $4.90/month (yearly)    |
-| [Aftershoot](https://aftershoot.co/)                            | 2024-01-26 | Specializes in AI for automated culling and editing, ideal for Lightroom users.                           | Starts at $120/year for Selects, up to $720/year for Max                                   |
-| [Spyne](https://www.spyne.ai/)                                  | 2024-01-26 | Tailored for digital retail, especially car images, enhancing photos for commercial use.                  | Starts at $999/year                                                                        |
-| [Prisma](https://prisma-ai.com/)                                | 2024-01-26 | Offers easy phone edits with creative features, perfect for portraits and background changes.             | $7.99/month or $29.99/year                                                                 |
-| [Remove bg](https://www.remove.bg/)                             | 2024-01-26 | Simplifies background removal, turning images into PNG files and useful for bulk edits.                   | Various plans, starting from $9/month for 40 credits                                       |
-| [Radiant Photo AI](https://radiant.photo/)                      | 2024-01-26 | Provides near-instant edits for RAW or JPEG images and includes advanced editing tools.                   | $159 (one-time purchase)                                                                   |
+### Initial Prompt
 
-## Voice Generation
+```
+Find as many as possible the latest and best AI photo enhancers in 2024:
 
-| Name                                          | As of      | Description                                                                                                                           | Pricing                                                                 |
-| --------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| [Lovo.ai](https://www.lovo.ai)                | 2024-01-26 | Distinguished AI-based voice generator with over 500 AI voices in more than 20 emotions and 150 languages.                            | Various plans available                                                 |
-| [Murf](https://www.murf.ai)                   | 2024-01-26 | Online voice generator transforming text into natural and lifelike speech, offering over 110 voices across 15 languages.              | Pricing information pending                                             |
-| [Synthesys](https://www.synthesys.io)         | 2024-01-26 | Allows creation of professional-grade AI voiceovers and videos, with over 140 languages and 374 different voices.                     | Various plans starting at approximately $41/month (billed yearly)       |
-| [Speechify](https://www.speechify.com)        | 2024-01-26 | Converts text into natural-sounding speech with over 200 high-quality voices in over 15 languages.                                    | Premium plan at $139/year                                               |
-| [WellSaid Labs](https://www.wellsaidlabs.com) | 2024-01-26 | Web-based platform for crafting voiceovers using Generative AI Voices, with over 50 AI voices.                                        | Various plans starting at $49/month                                     |
-| [ElevenLabs](https://www.elevenlabs.io)       | 2024-01-26 | AI-powered text-to-speech platform offering some of the most authentic and expressive AI voices.                                      | Various plans available                                                 |
-| [Fliki](https://www.fliki.ai)                 | 2024-01-26 | Script-based editor for creating videos with lifelike voiceovers, offering over 2000 realistic Text-to-Speech voices in 75 languages. | Plans start at $28/month ($21 if billed annually)                       |
-| [LOVO AI](https://www.lovo.ai)                | 2024-01-26 | Text-to-speech platform known for producing human-sounding voices, capable of generating voices in 15 minutes.                        | Plans include a free version and paid plans starting at $24/user/month  |
-| [Animaker Voice](https://www.animaker.com)    | 2024-01-26 | Offers a free lifetime plan with speech-to-text engine capable of speaking over 50 languages and 200 different AI voices.             | Free plan available, Voice Pro at $19/month                             |
-| [Listnr](https://www.listnr.ai)               | 2024-01-26 | Generator’s extensive voice library for voice-overs, with a simple and intuitive UI for adjusting speaking style and pronunciation.   | Plans start at free, with paid plans beginning at $9/month for students |
+1. If a website advertises its own product, don't trust the source.
+2. Find the correct ranking by aggregating results from multiple sources
+3. Rank higher the applications that with a track record of success
+4. Rank higher the applications that generate a hype recently
+```
 
-## Music Generation
+| Name                                                             | As of      | Description                                                                                                                                                                                  |
+| ---------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Retouch Pro Panel 3](https://retouchpropanel.com/)              | 2024-01-27 | An add-on for Adobe Photoshop, offering 180 different functions and facial recognition for easy feature editing.                                                                             |
+| [autoRetouch](https://www.autoretouch.com/)                      | 2024-01-27 | Aimed at product photography, this tool is simple to use, works well with bulk images, and is recognized for its ease of use for non-photographers.                                          |
+| [Prisma](https://prisma-ai.com/)                                 | 2024-01-27 | Best for phone editing, offering creative features and easy background-changing capabilities. Ideal for working with portraits.                                                              |
+| [Picsart](https://picsart.com/)                                  | 2024-01-27 | Provides an AI Enhance feature in its photo editor interface, suitable for quick and user-friendly photo improvements.                                                                       |
+| [Fotojet](https://www.fotojet.com/)                              | 2024-01-27 | An online image quality enhancer that allows for easy enhancement of image resolution and quality. Offers both free and paid features.                                                       |
+| [Fotor](https://www.fotor.com/)                                  | 2024-01-27 | Offers a range of editing tools for both beginners and professionals, with a user-friendly interface and batch processing capabilities.                                                      |
+| [Remove.bg](https://www.remove.bg/)                              | 2024-01-27 | Specializes in background removal using AI, with options for both personal and commercial use.                                                                                               |
+| [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) | 2024-01-27 | Features a suite of AI-powered tools for enhancing and transforming images, including Generative Fill, Sky Replacement, and Object Selection.                                                |
+| [Topaz Photo AI](https://www.topazlabs.com/topaz-photo-ai)       | 2024-01-27 | A desktop software offering denoising, deblurring, and upscaling. Recognized for its noise and blur reduction capabilities.                                                                  |
+| [AVC Labs](https://www.avclabs.com)                              | 2024-01-27 | AVC Labs offers a suite of AI-powered tools for photo enhancement, including resolution upscaling, noise and grain removal, face retouching, colorization, and background removal.           |
+| [Icons8](https://icons8.com/upscaler)                            | 2024-01-27 | Icons8 is an AI image upscaler that provides free upscaling up to 4x in size while automatically correcting imperfections in images.                                                         |
+| [Deep Image AI](https://deep-image.ai)                           | 2024-01-27 | Deep Image AI specializes in upscaling images online with a limit of 5000 x 5000 pixels or 25 megapixels. Compatible with Windows and macOS, it enhances photos on mobile as well.           |
+| [Pixlr](https://pixlr.com/)                                      | 2024-01-27 | A web-based and mobile application offering a variety of editing tools and effects for casual and social media-oriented editing.                                                             |
+| [Skylum Aurora HDR](https://www.skylum.com/aurorahdr)            | 2024-01-27 | Specializes in High Dynamic Range (HDR) photography, providing AI-powered tone-mapping and adjustment tools.                                                                                 |
+| [PicMonkey](https://www.picmonkey.com/)                          | 2024-01-27 | A web-based and mobile editing platform suitable for both photo editing and graphic design tasks.                                                                                            |
+| [Photolemur](https://photolemur.com/)                            | 2024-01-27 | Focuses on automated photo enhancement, utilizing AI algorithms for streamlined editing processes.                                                                                           |
+| [VanceAI](https://vanceai.com/)                                  | 2024-01-27 | Enhances, sharpens, and upscales photos using AI, suitable for creators, photographers, and marketers.                                                                                       |
+| [Canva](https://www.canva.com/)                                  | 2024-01-27 | Known for its ease of use in creating and editing creative assets, offering AI-powered tools for photo editing.                                                                              |
+| [DeepImage](https://deep-image.ai/)                              | 2024-01-27 | An AI image enhancer that upscales images, enhances image quality, and color correction, ideal for digital artists and content creators.                                                     |
+| [Let's Enhance](https://letsenhance.io)                          | 2024-01-27 | Let's Enhance is an online AI photo editor that excels in upscaling images up to 6x while maintaining quality. It offers batch processing and a variety of editing tools.                    |
+| [VanceAI](https://vanceai.com)                                   | 2024-01-27 | VanceAI is a sophisticated online tool that can upscale images up to 40x using Deep Convolutional Neural Networks. It features tools like automatic background remover and image compressor. |
+| [Upscale.Media](https://www.upscale.media)                       | 2024-01-27 | Upscale.Media is a web-based tool available on Android and iOS, focusing on enhancing images by upscaling while preserving the original quality. It offers flexible subscription plans.      |
 
-| AI Music Generation Tool                  | Description                                                                                                                        | Pricing                                                     |
-| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| [Aiva](https://www.aiva.ai)               | Specializes in creating soundtracks for various media using AI. Offers customization and different pricing plans.                  | Free, Standard: $11/month, Pro: $33/month                   |
-| [VEED.IO](https://www.veed.io)            | Provides AI music generation alongside video and audio editing. Known for simplicity and user-friendly design.                     | Free, Basic: $18/month, Pro: $30/month, Business: $59/month |
-| [Splash Pro](https://pro.splashmusic.com) | Text-based AI music generator allowing creation of brief songs based on commands.                                                  | Free, Starter: $6/month, Max: $29/month                     |
-| [Riffusion](https://www.riffusion.com)    | Uses deep learning algorithms for high-quality soundtrack creation. Offers various customization options.                          | Free                                                        |
-| [Loudly](https://www.loudly.com)          | Offers a range of AI-generated music focusing on customization and a royalty-free music library.                                   | Free, Personal: $5.99/month, Pro: $14.99/month              |
-| [Amper Music](https://www.ampermusic.com) | User-friendly AI music generator, ideal for creating soundtracks for podcasts, movies, and games.                                  | Contact for pricing                                         |
-| [Soundful](https://soundful.com)          | Generates royalty-free background music suitable for various applications, offering over 50 genre templates.                       | Contact for pricing                                         |
-| [Ecrett Music](https://ecrettmusic.com)   | Generates music clips by training on existing songs, offering a straightforward interface and royalty-free music generator.        | Contact for pricing                                         |
-| [Soundraw](https://soundraw.io)           | Allows customization of AI-created music phrases and other elements, suitable for various applications.                            | Contact for pricing                                         |
-| [Boomy](https://boomy.com)                | Enables quick creation of original songs, offering potential for earning streaming revenues on various platforms.                  | Free and subscription versions                              |
-| [Loudly](https://www.loudly.com)          | Provides over 170,000 curated audio loops, combining expert systems and generative networks for musically meaningful compositions. | Contact for pricing                                         |
+## Voice Generators
 
-## For Scientific Researchers
+### Initial Prompt
 
-| Name                                                 | Description                                                                                                      |
-| ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| [HeyGPT](https://heygpt.com/)                        | A ChatGPT interface that allows interaction with PDFs and websites using OpenAI's API.                           |
-| [Consensus](https://consensus.app/)                  | An AI-powered search engine that provides evidence-based answers from peer-reviewed research papers.             |
-| [Elicit](https://elicit.org/)                        | Uses language models to answer questions, generate summaries, and provide feedback, entirely based on research.  |
-| [Supersymmetry.ai](https://supersymmetry.ai/)        | Helps in finding relevant papers and visualizing the research landscape using NLP and ML.                        |
-| [ProWritingAid](https://prowritingaid.com/)          | A writing tool that checks and edits papers for grammar, style, and readability.                                 |
-| [Trinka](https://www.trinka.ai/)                     | Edits academic papers for language, clarity, and consistency, offering feedback on academic writing conventions. |
-| [QuillBot](https://quillbot.com/)                    | Rephrases or summarizes research, employing natural language generation and paraphrasing algorithms.             |
-| [Hemingway Editor](https://www.hemingwayapp.com/)    | Enhances essay readability by highlighting complex sentences and providing improvement suggestions.              |
-| [Semantic Scholar](https://www.semanticscholar.org/) | A powerful search engine for finding relevant scientific papers, providing summaries and metrics for each paper. |
-| [Jasper](https://www.jasper.ai/)                     | Assists in brainstorming or writing outlines for research, generating questions, hypotheses, and arguments.      |
+```
+Find as many as possible the latest and best AI voice generators in 2024:
+
+1. If a website advertises its own product, don't trust the source.
+2. Find the correct ranking by aggregating results from multiple sources
+3. Rank higher the applications that with a track record of success
+4. Rank higher the applications that generate a hype recently
+```
+
+| Name                                          | As of      | Description                                                                                                                                                                                        | Pricing                                           |
+| --------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| [Lovo.ai](https://www.lovo.ai)                | 2024-01-27 | Known for realistic voiceovers in various content types like videos, podcasts, and audiobooks. Offers a wide range of male and female voices.                                                      |
+| [Murf](https://www.murf.ai)                   | 2024-01-27 | A text-to-speech software with AI voices for creating realistic speech. Suitable for voiceovers across various media and offers voice settings adjustments.                                        |
+| [Synthesys](https://www.synthesys.io)         | 2024-01-27 | Synthesys stands out for its lifelike voices and the ability to emphasize specific words to express a range of emotions. It's suitable for a variety of media including sales videos and podcasts. |
+| [Speechify](https://www.speechify.com)        | 2024-01-27 | Suitable for entrepreneurs and businesses, offering high-quality text-to-speech for e-learning, podcasts, and more. It has intuitive controls and a user-friendly interface.                       |
+| [WellSaid Labs](https://www.wellsaidlabs.com) | 2024-01-26 | Web-based platform for crafting voiceovers using Generative AI Voices, with over 50 AI voices.                                                                                                     | Various plans starting at $49/month               |
+| [ElevenLabs](https://www.elevenlabs.io)       | 2024-01-27 | Offers an extensive library of voices with the ability to filter by category, gender, age, and accent. Features voice changing, dubbing, and cloning capabilities.                                 |
+| [Fliki](https://www.fliki.ai)                 | 2024-01-26 | Script-based editor for creating videos with lifelike voiceovers, offering over 2000 realistic Text-to-Speech voices in 75 languages.                                                              | Plans start at $28/month ($21 if billed annually) |
+| [Animaker Voice](https://www.animaker.com)    | 2024-01-26 | Offers a free lifetime plan with speech-to-text engine capable of speaking over 50 languages and 200 different AI voices.                                                                          | Free plan available, Voice Pro at $19/month       |
+| [Listnr](https://www.listnr.ai)               | 2024-01-27 | Listnr excels in producing natural-sounding voices and accents in over 70 languages. It's user-friendly and ideal for creating AI-powered podcasts and voiceovers.                                 |
+| [Play.ht](https://www.play.ht)                | 2024-01-27 | Play.ht provides over 900 voices including ultra-realistic ones. It's versatile for creating screenplays with multiple character voice-overs and offers features like voice cloning.               |
+| [Speechelo](https://www.speechelo.com)        | 2024-01-27 | Speechelo transforms text into natural-sounding voiceovers in 23 languages. It offers a range of voices with different tones and emotions, suitable for content creation.                          |
+| [Voicera](https://www.voicera.com)            | 2024-01-27 | Generates human-like voiceovers using text-to-speech and NLP technology. Suitable for creating videos, podcasts, and e-learning materials with customizable voices.                                |
+| [Genny by Lovo AI](https://www.lovo.ai)       | 2024-01-27 | A generative AI tool for text-to-speech conversion and voice cloning. Features over 500 AI voices in 100+ languages and multiple speaker voiceovers.                                               |
+| [Listnr](https://listnr.tech)                 | 2024-01-27 | Allows the creation of natural-sounding audio content from text in multiple languages. Features include podcast hosting, recording, editing, and an audio player widget.                           |
+| [Altered](https://www.altered.ai)             | 2024-01-27 | Altered is known for its high-quality voice synthesis models, offering detailed control over voice alteration. This makes it ideal for professional use in film, television, and gaming.           |
+| [Murf AI](https://murf.ai)                    | 2024-01-27 | Known for ultra-realistic voices and pitch management, Murf AI is ideal for creating realistic voiceovers quickly. It's especially beneficial for professionals requiring high-quality audio.      |
+
+## Music Generators
+
+### Initial Prompt
+
+```
+Find as many as possible the latest and best AI music generators in 2024:
+
+1. If a website advertises its own product, don't trust the source.
+2. Find the correct ranking by aggregating results from multiple sources
+3. Rank higher the applications that with a track record of success
+4. Rank higher the applications that generate a hype recently
+```
+
+| Name                                                    | As of      | Description                                                                                                                                                                                        |
+| ------------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Mubert](https://mubert.com)                            | 2024-01-27 | Mubert offers personalized music experiences through its API, ideal for businesses and content creators seeking unique soundscapes. It's innovative in generating real-time unique music.          |
+| [Soundful](https://soundful.com)                        | 2024-01-27 | Soundful is a robust tool for content creators, offering royalty-free music with a user-friendly interface and customizable tracks across various genres.                                          |
+| [Soundraw](https://soundraw.io)                         | 2024-01-27 | Soundraw enables on-demand song generation with complete customization, providing royalty-free music compositions suitable for a wide range of creative needs.                                     |
+| [AIVA](https://www.aiva.ai)                             | 2024-01-27 | AIVA specializes in composing soundtracks for various media using AI, with the ability to create and edit music in multiple genres and styles.                                                     |
+| [Splash Music](https://splashmusic.com)                 | 2024-01-27 | Splash Music is an AI-powered music generator that offers text-to-vocals capability, enabling users to create songs with custom singing or rap vocals. It supports unlimited commercial licensing. |
+| [Loudly](https://loudly.com)                            | 2024-01-27 | Loudly offers an impressive free plan for AI music generation, ideal for social media use, with features like royalty-free music library and AI Recommender.                                       |
+| [Ecrett Music](https://ecrettmusic.com)                 | 2024-01-27 | Ecrett Music allows for quick creation of royalty-free music tailored to specific scenes and moods, suitable for content creators and marketers.                                                   |
+| [Magenta Studio](https://magenta.tensorflow.org/studio) | 2024-01-27 | Developed by Google's Magenta project, Magenta Studio uses machine learning to compose sophisticated music, offering tools for melody generation and chord progression.                            |
+| [Synthesizer V](https://synthesizerv.com)               | 2024-01-27 | Synthesizer V specializes in vocal synthesis for music generation, ideal for creating jingles and vocal melodies with expressiveness and clarity.                                                  |
+| [Beatoven](https://beatoven.ai)                         | 2024-01-27 | Beatoven simplifies the process of creating music with AI, designed for easy composition of original soundtracks for videos or podcasts.                                                           |
+| [Amper Music](https://www.ampermusic.com)               | 2024-01-27 | Allows quick creation of music for various applications with a cloud-based platform, millions of samples, and a variety of instruments. Suitable for podcasts, movies, and video games.            |
+| [Boomy](https://boomy.com)                              | 2024-01-27 | Allows users to create original songs quickly with AI, focusing on beats across various styles. Offers a free version and a paid feature for Dolby Mastering.                                      |
+| [Melobytes](https://www.melobytes.com)                  | 2024-01-27 | Offers a range of music styles from classical to modern and outputs MIDI files. Known for its speed in generating music.                                                                           |
+| [Riffusion](https://riffusion.com)                      | 2024-01-27 | Generates high-quality soundtracks using deep learning algorithms. Offers vast customization options and user-friendly UI/UX.                                                                      |
+
+## For Research
+
+### Initial Prompt
+
+```
+Find as many as possible the latest and best AI applications for research in 2024:
+
+1. If a website advertises its own product, don't trust the source.
+2. Find the correct ranking by aggregating results from multiple sources
+3. Rank higher the applications that with a track record of success
+4. Rank higher the applications that generate a hype recently
+```
+
+| Name                                             | As of      | Description                                                                                                                                                                     |
+| ------------------------------------------------ | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ChatGPT](https://foundr.ai/chatgpt)             | 2024-01-27 | A generative AI chatbot capable of summarizing scattered information and adapting to various styles of writing, useful for transforming information into structured literature. |
+| [Research Rabbit](https://www.researchrabbit.ai) | 2024-01-27 | Offers a unique way to discover and organize academic papers, functioning like a "Spotify for Papers," with features for paper recommendations and visualization.               |
+| [Bit.ai](https://bit.ai)                         | 2024-01-27 | A document-sharing tool with features beneficial for research collaboration, allowing integration of various media items into documents.                                        |
+| [Elicit](https://elicit.org)                     | 2024-01-27 | An AI research assistant that excels in finding relevant papers, summarizing them, and extracting key information, based solely on research.                                    |
+| [Scite](https://scite.ai)                        | 2024-01-27 | Specializes in providing real citations to published papers and detailed lists of papers cited in responses.                                                                    |
+| [Exper AI](https://www.experai.com)              | 2024-01-27 | Offers tools for analyzing and summarizing peer-reviewed papers, enhancing engagement with complex academic content.                                                            |
+| [Hey Science](https://www.heyscience.ai)         | 2024-01-27 | Currently in development, this AI tool aims to provide efficient literature review and research assistance.                                                                     |
+| [Iris AI](https://iris.ai)                       | 2024-01-27 | An AI tool designed to streamline the process of engaging with peer-reviewed papers and conducting literature reviews.                                                          |
+| [PapersGPT](https://jessezhang.org/llmdemo)      | 2024-01-27 | In development, this application aims to assist in reading and understanding scientific papers using AI technology.                                                             |
+| [Research Buddy](https://researchbuddy.app)      | 2024-01-27 | Aims to simplify the research process by providing tools for reading and analyzing academic papers efficiently.                                                                 |
+| [Mirror Think](https://mirrorthink.ai)           | 2024-01-27 | Designed to assist in the comprehension and analysis of complex scientific literature and academic research.                                                                    |
+| [Open Read](https://www.openread.academy)        | 2024-01-27 | Facilitates efficient literature reviews by presenting key information and finding overlooked insights in academic papers.                                                      |
+| [Chat PDF](https://www.chatpdf.com)              | 2024-01-27 | An AI-powered app that simplifies reading and analyzing journal articles, providing summaries and question-answering capabilities.                                              |
+| [Explain Paper](https://www.explainpaper.com)    | 2024-01-27 | Provides succinct summaries of peer-reviewed papers, saving researchers time in sifting through extensive PDFs.                                                                 |
+| [Humata](https://www.humata.ai)                  | 2024-01-27 | Enhances engagement with peer-reviewed papers by providing AI-powered summaries and key insights.                                                                               |
+| [Lateral AI](https://www.lateral.io)             | 2024-01-27 | Offers tools for deciphering complex citations and accelerating research processes using AI.                                                                                    |
+| [Paper Brain](https://www.paperbrain.study)      | 2024-01-27 | Assists in understanding and analyzing academic papers, particularly beneficial for complex scientific studies.                                                                 |
+| [Scholarcy](https://www.scholarcy.com)           | 2024-01-27 | Aids in the efficient review of academic literature by summarizing and highlighting key points in papers.                                                                       |
+| [SciSpace Copilot](https://typeset.io)           | 2024-01-27 | Provides support for scientific writing and research, offering AI-driven assistance in creating and structuring academic documents.                                             |
+| [Unriddle](https://www.unriddle.ai)              | 2024-01-27 | Utilizes AI to offer insights and summaries for academic papers, enhancing the research process.                                                                                |
+| [Sharly.ai](https://www.sharly.ai)               | 2024-01-27 | An AI tool designed to streamline the academic research process, offering features to analyze and summarize complex content.                                                    |
+| [GrammarlyGo](https://www.grammarly.com)         | 2024-01-27 | An AI writing tool that has evolved to include generative AI features, aiding in composing and rewriting academic texts.                                                        |
+| [Jasper](https://www.jasper.ai)                  | 2024-01-27 | Special                                                                                                                                                                         |
 
 ## For Sales
 
-| Name                                                            | Description                                                                                                   |
-| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| [Drift](https://www.drift.com)                                  | A conversational AI sales software that uses chatbots for real-time communication and sales funnel guidance.  |
-| [Seamless AI](https://seamless.ai)                              | Provides accurate leads using AI to crawl the web and find contact information.                               |
-| [Veloxy](https://veloxy.io)                                     | An AI-powered sales assistant software that combines sales engagement, email marketing, and analytics.        |
-| [Clari](https://www.clari.com)                                  | A revenue platform designed to streamline revenue processes and simplify workflow.                            |
-| [People AI](https://www.people.ai)                              | Utilizes AI to enhance the effectiveness of revenue-generation processes.                                     |
-| [6Sense](https://6sense.com)                                    | A Sales Intelligence platform that provides insights on accounts and buying teams.                            |
-| [Operative Intelligence](https://www.operativeintelligence.com) | Uses AI to derive customer insights and identify customer pain points.                                        |
-| [Spekit](https://spekit.com)                                    | A just-in-time enablement platform accelerating revenue and supporting sales content creation.                |
-| [Salesforce Sales Cloud](https://www.salesforce.com)            | A comprehensive sales force automation platform that combines lead management and sales forecasting.          |
-| [HubSpot Sales Hub](https://www.hubspot.com)                    | A sales software platform that offers tools for establishing client relationships and productive sales teams. |
+### Initial Prompt
 
-## For Writers
+```
+Find as many as possible the latest and best AI applications for sales in 2024:
 
-| Name             | Description                                                                                              | URL                                                |
-| ---------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| Jasper           | Known for generating high-quality content quickly and supports multiple languages.                       | [Jasper](https://www.jasper.ai/)                   |
-| Scalenut         | An all-in-one marketing tool, great for SEO content and offers real-time optimization.                   | [Scalenut](https://www.scalenut.com/)              |
-| Surfer SEO       | Specializes in SEO content generation with tools for outline building and keyword analysis.              | [Surfer SEO](https://www.surferseo.com/)           |
-| Writesonic       | Utilizes GPT-4 for content generation, great for longer-form copy and blog posts.                        | [Writesonic](https://www.writesonic.com/)          |
-| Sudowrite        | Designed specifically for creative writing including novels and screenplays.                             | [Sudowrite](https://www.sudowrite.com/)            |
-| Content at Scale | Generates long-form blog posts quickly, ideal for SEO-focused content publishers.                        | [Content at Scale](https://www.contentatscale.ai/) |
-| Anyword          | A data-driven copywriting tool, effective for creating ads and long-form content.                        | [Anyword](https://www.anyword.com/)                |
-| Copy AI          | Offers tools for overcoming writer's block, and includes a range of templates for various content needs. | [Copy AI](https://www.copy.ai/)                    |
-| Rytr             | Well-known for its free plan, offers features like plagiarism checker and supports multiple languages.   | [Rytr](https://www.rytr.me/)                       |
-| Writesonic       | Ideal for generating short-form marketing copy and supports over 24 languages.                           | [Writesonic](https://www.writesonic.com/)          |
+1. If a website advertises its own product, don't trust the source.
+2. Find the correct ranking by aggregating results from multiple sources
+3. Rank higher the applications that with a track record of success
+4. Rank higher the applications that generate a hype recently
+```
 
-## For Artists
+| Name                                                     | As of      | Description                                                                                                         |
+| -------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------- |
+| [Regie.ai](https://www.regie.ai)                         | 2024-01-27 | Offers a comprehensive suite of AI sales tools, ideal for enhancing the overall sales process.                      |
+| [My AI Front Desk](https://www.myfrontdesk.ai)           | 2024-01-27 | Specializes as a dedicated AI receptionist, assisting in customer interaction and management.                       |
+| [Avoma](https://www.avoma.com)                           | 2024-01-27 | An AI tool designed specifically for optimizing sales meetings and customer interactions.                           |
+| [Postaga](https://www.postaga.com)                       | 2024-01-27 | Focuses on outreach sequencing, helping sales teams in creating effective outreach strategies.                      |
+| [Clay](https://www.clay.run)                             | 2024-01-27 | Provides tools for scraping lead data, aiding in the collection and organization of potential customer information. |
+| [Lavender](https://www.trylavender.com)                  | 2024-01-27 | An AI tool for email coaching, helping sales professionals improve their email communication strategies.            |
+| [FastOutreach.ai](https://www.fastoutreach.ai)           | 2024-01-27 | Specializes in cold emails, offering AI-driven solutions to optimize cold email campaigns.                          |
+| [Apollo AI](https://www.apollo.io)                       | 2024-01-27 | Enhances outreach with data-driven insights, featuring a large contact database and AI-assisted email writing.      |
+| [Drift](https://www.drift.com)                           | 2024-01-27 | Engages leads with conversational AI, offering AI-powered chatbots for real-time customer interaction.              |
+| [Tavus](https://www.tavus.io)                            | 2024-01-27 | Utilizes AI for personalizing and automating video outreach, tailored for video marketing efforts.                  |
+| [Lyne](https://www.lyne.ai)                              | 2024-01-27 | An AI-powered tool that assists sales reps in sending personalized cold emails at scale.                            |
+| [People AI](https://www.people.ai)                       | 2024-01-27 | Enhances revenue-generation processes by providing insights and high-quality data on go-to-market activities.       |
+| [6Sense](https://www.6sense.com)                         | 2024-01-27 | A Sales Intelligence platform providing insights on accounts and buying teams to streamline sales workflows.        |
+| [Viva Sales](https://www.microsoft.com/en-us/viva/sales) | 2024-01-27 | Created by Microsoft, this AI sales app generates valuable insights into sales and customer interactions.           |
+| [Freshsales](https://www.freshworks.com/freshsales-crm)  | 2024-01-27 | A smart CRM with AI integration, simplifying lead management and interaction tracking.                              |
+| [Saleswhale](https://www.saleswhale.com)                 | 2024-01-27 | An email-based AI assistant that helps sales reps by reducing work strain and improving the quality of leads.       |
+| [Murf](https://www.murf.ai)                              | 2024-01-27 | A text-to-speech generator AI, recommended for businesses for functions like voiceovers and dictations.             |
+| [Troops](https://www.troops.ai)                          | 2024-01-27 | A software that helps businesses gain more visibility and aids in making collaborations in the market.              |
 
-| Name                                                   | Description                                                                                                                              |
-| ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| [DALL-E 3](https://openai.com/dall-e-3/)               | Offers highly realistic images and illustrations with an easy-to-use interface and multiple layer customization.                         |
-| [Meta AI](https://imagine.meta.com)                    | A versatile virtual assistant for generating photorealistic images, designed for both chats and creative hobbyists.                      |
-| [Deep Dream Generator](https://deepdreamgenerator.com) | Uses a neural network to create artwork in various painting styles, also featuring a text-to-image software.                             |
-| [Artbreeder](https://www.artbreeder.com)               | Enables the creation of landscapes, portraits, and various artworks, allowing users to manage illustrations in folders.                  |
-| [Stablecog](https://stablecog.com)                     | An open-source tool creating realistic images from scratch, easy-to-use and offering generative AI capabilities.                         |
-| [DeepAI](https://deepai.org)                           | Provides various tools for creating realistic images and cartoons, offering customizable details for each image.                         |
-| [StarryAI](https://www.starryai.com)                   | An AI art generator that allows creating and owning images as NFTs, processing images with machine learning.                             |
-| [CF Spark](https://www.creativefabrica.com)            | A platform where users can monetize their AI art creations, offering re-prompting of AI images and fast image generation.                |
-| [Fotor](https://www.fotor.com)                         | User-friendly tool for creating NFT art quickly, offering various styles and editing options without requiring account registration.     |
-| [Runway ML](https://runwayml.com)                      | Facilitates the creation of realistic image styles, animations, and 3D models, with tools for video projects and background replacement. |
+## For Writing
 
-## In Finance
+### Initial Prompt
+
+```
+Find as many as possible the latest and best AI applications for writing in 2024:
+
+1. If a website advertises its own product, don't trust the source.
+2. Find the correct ranking by aggregating results from multiple sources
+3. Rank higher the applications that with a track record of success
+4. Rank higher the applications that generate a hype recently
+```
+
+| Name                                          | As of      | Description                                                                                                                            |
+| --------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| [CopyAI](https://www.techreport.com)          | 2024-01-27 | Known for a helpful chatbot and supporting over 25 languages. Suitable for those needing up to 5 user seats on the entry-level plan.   |
+| [Rytr](https://www.rytr.me)                   | 2024-01-27 | Offers a standout free plan, ideal for small content creators and businesses. Features include a plagiarism checker and SERP analysis. |
+| [Junia AI](https://www.junia.ai)              | 2024-01-27 | Integrates with Google Search for real-time, trend-based content creation. Allows users to define a consistent brand voice.            |
+| [Jasper](https://www.jasper.ai)               | 2024-01-27 | Offers versatile templates and multi-language support. Specializes in long-form content and adapts to different brand voices.          |
+| [Scalenut](https://www.scalenut.com)          | 2024-01-27 | Provides research insights and SEO content writing features with NLP and NLU technologies.                                             |
+| [Surfer SEO](https://www.surferseo.com)       | 2024-01-27 | Specializes in generating SEO-optimized content with features like Outline Builder and AI Writing.                                     |
+| [Writesonic](https://www.writesonic.com)      | 2024-01-27 | Suitable for website copy and marketing text, offering AI-powered content generation.                                                  |
+| [Sudowrite](https://www.sudowrite.com)        | 2024-01-27 | Tailored for fiction writing, offering creative tools like a Story Engine and Describe feature.                                        |
+| [Reword](https://www.reword.ai)               | 2024-01-27 | Collaborative AI writing tool that learns from your writing over time. Designed for team writing and editing.                          |
+| [SudoWrite](https://www.sudowrite.com)        | 2024-01-27 | Best for creative writing, offering tools for brainstorming and editing features for rewriting or expanding sections.                  |
+| [GrowthBar](https://www.growthbarseo.com)     | 2024-01-27 | An SEO-focused tool ideal for creating blog posts, offering keyword and link suggestions.                                              |
+| [Wordtune](https://www.wordtune.com)          | 2024-01-27 | Enhances clarity, tone, and style of writing with sentence rewriting suggestions and style adjustments.                                |
+| [Article Forge](https://www.articleforge.com) | 2024-01-27 | Uses deep learning algorithms to generate unique articles optimized for SEO.                                                           |
+| [Quillbot](https://www.quillbot.com)          | 2024-01-27 | Helps in paraphrasing and rewriting sentences to improve clarity and originality in writing.                                           |
+| [Jarvis](https://www.jarvis.ai)               | 2024-01-27 | AI-powered writing assistant by OpenAI, offering content generation, brainstorming, and editing assistance.                            |
+
+## For Finance
+
+### Initial Prompt
+
+```
+Find as many as possible the latest and best AI applications for finance in 2024:
+
+1. If a website advertises its own product, don't trust the source.
+2. Find the correct ranking by aggregating results from multiple sources
+3. Rank higher the applications that with a track record of success
+4. Rank higher the applications that generate a hype recently
+```
 
 | Name                                           | Description                                                                                                                                   |
 | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -181,7 +304,7 @@ Find as many as possible "the latest and best text-to-image AI generators in 202
 | [Kasisto](https://www.kasisto.com/)            | Creator of KAI, a conversational AI platform used in the finance industry to improve customer experiences.                                    |
 | [Abe AI](https://www.abe.ai/)                  | Provides virtual financial assistant services, integrating with various platforms for banking and financial management.                       |
 
-## In Healthcare
+## For Healthcare
 
 | Name                                                  | Description                                                                                                                      |
 | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -196,7 +319,7 @@ Find as many as possible "the latest and best text-to-image AI generators in 202
 | [Lirio](https://lirio.com)                            | Combines consumer data science and behavioral techniques for personalized healthcare nudges.                                     |
 | [Healthcare Chatbots](Various)                        | AI chatbots used in hospitals for patient interaction, information, booking appointments, and symptom checks.                    |
 
-## In E-commerce
+## For E-commerce
 
 | Name                                       | Description                                                                                                                     |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -211,7 +334,7 @@ Find as many as possible "the latest and best text-to-image AI generators in 202
 | [StockTrim](https://www.stocktrim.com)     | Specializes in AI-driven inventory management and supply chain optimization.                                                    |
 | [Signifyd](https://www.signifyd.com)       | Focuses on e-commerce fraud prevention using machine learning and big data analytics.                                           |
 
-## In Chatbots
+## For Chatbots
 
 | Name                                               | Description                                                                                                                                                          |
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -226,7 +349,7 @@ Find as many as possible "the latest and best text-to-image AI generators in 202
 | [Emma AI](https://emma.ai)                         | Allows creation of custom AI-powered assistants using OpenAI's GPT-3.5 technology, tailored for specific business needs.                                             |
 | [Poe AI](https://poe.ai)                           | Enables the creation of personalized chatbots, utilizing models from various sources including OpenAI and Anthropic.                                                 |
 
-## In Marketing
+## For Marketing
 
 | Name                                         | Description                                                                                                                            |
 | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -241,7 +364,7 @@ Find as many as possible "the latest and best text-to-image AI generators in 202
 | [Seventh Sense](https://theseventhsense.com) | AI-driven email optimization tool for HubSpot and Marketo users, focusing on send time optimization and engagement metrics.            |
 | [Drift](https://drift.com)                   | Conversational marketing platform with AI-driven chatbots for enhancing real-time engagement and lead capture.                         |
 
-## In Social Media
+## For Social Media
 
 | AI Tool                                      | Description                                                                                                                                                          |
 | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
